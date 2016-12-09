@@ -1,1 +1,1 @@
-# Password hash recovery tool written in Java
+Password hash recovery tool written in Java
