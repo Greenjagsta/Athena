@@ -1,1 +1,2 @@
-Password hash recovery tool written in Java
+# Athena
+Password hash recovery tool
